@@ -12,6 +12,12 @@ An implementation of Help Application, it helps the students in studying that co
 2. Easy to use.
 3. Saving time.
 
+# Tools
+- C#.
+- SQL.
+- Guna GUI.
+
+# Snapshots
 
 
 
