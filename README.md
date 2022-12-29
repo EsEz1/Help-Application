@@ -10,7 +10,6 @@ An implementation of Help Application, it helps the students in studying that co
 # Features
 1. It facilitates to the students to move from one app to another without taking some time.
 2. Easy to use.
-3. Saving time.
 
 # Tools
 - C#.
