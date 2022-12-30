@@ -16,8 +16,8 @@ namespace VisualProgramingProject.Forms
     public partial class Student_Record_Form : Form
     {
         //public string serverName = @"ESLAMEZZAT\SQLEXPRESS";
-        public string serverName = @"TAREKFAYEZ\SQLEXPRESS";
-        public string databaseName = "Student";
+        public string serverName = @"NOTEBOOK\MSSQLSERVER02";
+        public string databaseName = "StudentDetails";
         public static SqlConnection sqlConnection;
         public static string connectionString = "";
         public Student_Record_Form()
