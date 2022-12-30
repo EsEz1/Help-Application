@@ -21,9 +21,9 @@ An implementation of Help Application, it helps the students in studying that co
 <picture>
 <img alt="Start of the system" src="https://github.com/EsEz1/Help-Application/blob/master/Images/Start.png">
 </picture>
-<h3>Record data of the student</h3>
+<h3>Recording data of the student</h3>
 <picture>
-<img alt="Record Data" src="https://github.com/EsEz1/Help-Application/blob/master/Images/Record%20Data.png">
+<img alt="Recording Data" src="https://github.com/EsEz1/Help-Application/blob/master/Images/Record%20Data.png">
 </picture>
 <h3>The interface of each student</h3>
 <picture>
